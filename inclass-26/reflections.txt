@@ -1,0 +1,19 @@
+I learned everything that I hoped to learn about. 
+
+I really enjoyed learning how to create websites and how the process of creating them worked. I also enjoyed learning more
+about Javascript.
+
+The first half of the course worked well. The last half was insanely dense. I feel that the class should be 
+broken up into at least two, maybe three different classes. There was simply far too much to learn in half of a semester. 
+
+Having many more TAs and only having TAs who are actually familiar with the course material would be VERY helpful. 
+Since I have no friends in the class, if the professor is not free and I get stuck, there is no one to turn to for help.  
+This was easily the most frustrating aspect of the class. With more/carefully chosen TAs, my grade would have been much better. 
+Almost every question about the in-class assignments and many questions about the homework that I had were met with
+"I'm not sure. You should ask Scott". 
+
+For each homework assignment (mainly hw5 and on), I think we should get a setup project and instructions on how exactly to run the files
+and what to include in each file. Also, hw5-hw7 should not be cumulative in my opinion. After hw5, we should be given
+a hw5 solution to use for hw6 and 7. 
+
+
